@@ -1,0 +1,72 @@
+2021-12-31 18:02:24,815:INFO:app.py:Url hitted
+2021-12-31 18:02:24,815:INFO:app.py:Search begins for ibm
+2021-12-31 18:02:32,092:INFO:app.py:Searching completed
+2021-12-31 18:02:32,200:INFO:app.py:Summarization Done
+2021-12-31 18:02:33,075:INFO:app.py:Ref_links Fetched
+2021-12-31 18:02:33,144:INFO:app.py:Image_links Fetched
+2021-12-31 18:02:48,190:INFO:app.py:imgtob64 Done
+2021-12-31 18:02:48,766:INFO:app.py:Data saved in MongoDB
+2021-12-31 18:04:13,527:INFO:app.py:Url hitted
+2021-12-31 18:04:13,527:INFO:app.py:Search begins for apple
+2021-12-31 18:04:21,856:INFO:app.py:Searching completed
+2021-12-31 18:04:21,966:INFO:app.py:Summarization Done
+2021-12-31 18:04:22,846:INFO:app.py:Ref_links Fetched
+2021-12-31 18:04:23,034:INFO:app.py:Image_links Fetched
+2021-12-31 18:05:09,548:INFO:app.py:imgtob64 Done
+2021-12-31 18:05:10,501:INFO:app.py:Data saved in MongoDB
+2021-12-31 18:06:27,172:INFO:app.py:Url hitted
+2021-12-31 18:06:27,172:INFO:app.py:Search begins for webbrowser
+2021-12-31 18:06:33,105:INFO:app.py:Searching completed
+2021-12-31 18:06:33,138:INFO:app.py:Summarization Done
+2021-12-31 18:06:33,269:INFO:app.py:Ref_links Fetched
+2021-12-31 18:06:33,304:INFO:app.py:Image_links Fetched
+2021-12-31 18:06:39,195:INFO:app.py:imgtob64 Done
+2021-12-31 18:06:39,729:INFO:app.py:Data saved in MongoDB
+2021-12-31 18:09:31,949:INFO:app.py:Url hitted
+2021-12-31 18:09:31,950:INFO:app.py:Search begins for media
+2021-12-31 18:09:36,611:INFO:app.py:Searching completed
+2021-12-31 18:09:36,621:INFO:app.py:Summarization Done
+2021-12-31 18:09:56,672:INFO:app.py:Ref_links Fetched
+2021-12-31 18:09:56,701:INFO:app.py:Image_links Fetched
+2021-12-31 18:09:57,611:INFO:app.py:imgtob64 Done
+2021-12-31 18:09:58,038:INFO:app.py:Data saved in MongoDB
+2021-12-31 18:10:45,754:INFO:app.py:Url hitted
+2021-12-31 18:10:45,755:INFO:app.py:Search begins for finearts
+2021-12-31 18:11:11,028:INFO:app.py:Searching completed
+2021-12-31 18:11:11,029:INFO:app.py:Summarization Done
+2021-12-31 18:11:31,052:INFO:app.py:Ref_links Fetched
+2021-12-31 18:11:51,105:INFO:app.py:Image_links Fetched
+2021-12-31 18:11:51,105:INFO:app.py:imgtob64 Done
+2021-12-31 18:11:51,550:INFO:app.py:Data saved in MongoDB
+2021-12-31 18:13:33,298:INFO:app.py:Url hitted
+2021-12-31 18:13:33,299:INFO:app.py:Search begins for web browser
+2021-12-31 18:13:38,587:INFO:app.py:Searching completed
+2021-12-31 18:13:38,620:INFO:app.py:Summarization Done
+2021-12-31 18:13:38,746:INFO:app.py:Ref_links Fetched
+2021-12-31 18:13:38,776:INFO:app.py:Image_links Fetched
+2021-12-31 18:13:44,627:INFO:app.py:imgtob64 Done
+2021-12-31 18:13:45,105:INFO:app.py:Data saved in MongoDB
+2021-12-31 18:31:10,461:INFO:app.py:Url hitted
+2021-12-31 18:31:10,461:INFO:app.py:Search begins for ibm
+2021-12-31 18:31:16,646:INFO:app.py:Searching completed
+2021-12-31 18:31:16,757:INFO:app.py:Summarization Done
+2021-12-31 18:31:17,625:INFO:app.py:Ref_links Fetched
+2021-12-31 18:31:17,692:INFO:app.py:Image_links Fetched
+2021-12-31 18:31:32,964:INFO:app.py:imgtob64 Done
+2021-12-31 18:31:33,533:INFO:app.py:Data saved in MongoDB
+2021-12-31 18:56:52,957:INFO:app.py:Url hitted
+2021-12-31 18:56:52,958:INFO:app.py:Search begins for web browser
+2021-12-31 18:56:58,403:INFO:app.py:Searching completed
+2021-12-31 18:56:58,439:INFO:app.py:Summarization Done
+2021-12-31 18:56:58,566:INFO:app.py:Ref_links Fetched
+2021-12-31 18:56:58,597:INFO:app.py:Image_links Fetched
+2021-12-31 18:57:04,714:INFO:app.py:imgtob64 Done
+2021-12-31 18:57:05,189:INFO:app.py:Data saved in MongoDB
+2022-01-01 12:30:32,048:INFO:app.py:Url hitted
+2022-01-01 12:30:32,049:INFO:app.py:Search begins for ibm
+2022-01-01 12:30:39,097:INFO:app.py:Searching completed
+2022-01-01 12:30:39,230:INFO:app.py:Summarization Done
+2022-01-01 12:30:40,139:INFO:app.py:Ref_links Fetched
+2022-01-01 12:30:40,211:INFO:app.py:Image_links Fetched
+2022-01-01 12:30:54,894:INFO:app.py:imgtob64 Done
+2022-01-01 12:30:55,495:INFO:app.py:Data saved in MongoDB
